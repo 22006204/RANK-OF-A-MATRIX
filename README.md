@@ -32,7 +32,8 @@ print(B)
 ```
 
 ## Output:
-![](./rank.png)
+![rank2](https://user-images.githubusercontent.com/118787261/213876108-ee409a56-c360-4caa-a97e-bdf50fb88a6b.png)
+
 
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
