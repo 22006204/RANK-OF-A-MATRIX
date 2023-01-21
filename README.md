@@ -12,13 +12,13 @@ To write a python program to find the rank of a matrix
 ## Algorithm:
 
 ### Step 1:
-import numpy package
+          import numpy package
 ### Step 2:
-get the imput matrix
+          get the imput matrix
 ### Step 3:
-find the rank of the matrix
+          find the rank of the matrix
 ### Step 4:
-print the result
+          print the result
 
 ## Program:
 ```python
